@@ -1,0 +1,20 @@
+# Perfect-Rules Shadowrocket v1.9
+# STUN/TURN/WebRTC leak-sensitive endpoints
+# Default policy in v1.9 is routed through the selected leak-protection group, not hard-coded REJECT.
+
+DOMAIN,stun.l.google.com
+DOMAIN,stun1.l.google.com
+DOMAIN,stun2.l.google.com
+DOMAIN,stun3.l.google.com
+DOMAIN,stun4.l.google.com
+DOMAIN,stun.cloudflare.com
+DOMAIN,turn.cloudflare.com
+DOMAIN,turn.speed.cloudflare.com
+DOMAIN,global.turn.twilio.com
+DOMAIN,stun.twilio.com
+DOMAIN,stun.qq.com
+DOMAIN,stun.voip.qq.com
+DOMAIN,stun.miwifi.com
+DOMAIN-SUFFIX,stunprotocol.org
+DOMAIN-KEYWORD,stun
+DOMAIN-KEYWORD,turn
