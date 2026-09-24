@@ -1,0 +1,12 @@
+# Perfect-Rules Shadowrocket v1.8
+# Network diagnostics
+DOMAIN,ipinfo.io
+DOMAIN,api.ipify.org
+DOMAIN,api64.ipify.org
+DOMAIN,ifconfig.me
+DOMAIN,icanhazip.com
+DOMAIN,dnsleaktest.com
+DOMAIN,www.dnsleaktest.com
+DOMAIN,ipleak.net
+DOMAIN,www.ipleak.net
+DOMAIN-SUFFIX,browserleaks.com
