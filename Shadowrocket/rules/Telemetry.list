@@ -1,0 +1,9 @@
+# Perfect-Rules Shadowrocket v1.9.1
+# Small locally maintained privacy/telemetry additions derived from the Pastee comparison.
+
+DOMAIN,trace.qq.com
+DOMAIN,beacon.qq.com
+DOMAIN,report.qq.com
+DOMAIN,pingtas.qq.com
+DOMAIN,stats.g.qq.com
+DOMAIN,gdt.qq.com
