@@ -210,3 +210,25 @@ https://raw.githubusercontent.com/barry198788-ai/Perfect-Rules/main/Shadowrocket
 ```
 
 > v1.8 保留作为回滚版本。
+
+
+------
+
+## **⑥ ⭐ Shadowrocket v1.9.1：规则完整性修复版**
+
+v1.9.1 不改变 v1.9 的核心策略组架构，重点修复大规则文件被截断的问题：
+
++ AdvertisingLite 改为直接引用上游完整 RULE-SET + DOMAIN-SET
++ Privacy 改为直接引用上游完整 RULE-SET + DOMAIN-SET
++ Hijacking 改为直接引用上游完整 RULE-SET
++ AI / YouTube / Google / GitHub / Netflix / Spotify / Steam / Telegram / TikTok / Apple / Microsoft 改为直接引用上游完整规则
++ Social 拆分为 Twitter / Facebook / Instagram / WhatsApp / Threads 上游完整规则
++ China 改为 ChinaNoMedia + ChinaMedia 上游完整规则
++ 本地仅维护小型 Telemetry.list、NetworkTest.list、WebRTC-Leak.list
++ v1.9 保留作为回滚版本
+
+### **Shadowrocket v1.9.1 配置地址**
+
+```text
+https://raw.githubusercontent.com/barry198788-ai/Perfect-Rules/main/Shadowrocket/Perfect-Rules_v1.9.1.conf
+```
