@@ -189,3 +189,24 @@ https://raw.githubusercontent.com/barry198788-ai/Perfect-Rules/main/Shadowrocket
 
 > 节点仍由你自己的 Shadowrocket 机场订阅提供；本配置不会写入任何私有节点。
 
+
+
+------
+
+## **⑤ ⭐ Shadowrocket v1.9：安全 / 隐私增强版**
+
+v1.9 在 v1.8 的策略组架构基础上，新增：
+
++ 🛡️ AdvertisingLite / Privacy / Hijacking 拦截
++ 🤖 OpenAI / Claude / Gemini 核心域名本地兜底
++ 🔒 STUN / TURN / WebRTC 泄漏敏感流量独立策略
++ 💬 X / Twitter、Facebook、Instagram、WhatsApp、Threads 社交媒体分流
++ 🚫 不启用 MITM；AdvertisingLite 中的 URL-REGEX 已移除
+
+### **Shadowrocket v1.9 配置地址**
+
+```text
+https://raw.githubusercontent.com/barry198788-ai/Perfect-Rules/main/Shadowrocket/Perfect-Rules_v1.9.conf
+```
+
+> v1.8 保留作为回滚版本。
