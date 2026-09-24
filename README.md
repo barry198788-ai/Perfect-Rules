@@ -162,3 +162,30 @@ Perfect Rules 会持续维护。
 *Make complex routing simple.*
 
 **阿尔忒弥斯实验室 · Artemis Lab**
+
+------
+
+## **④ ⭐ Shadowrocket v1.8**
+
+Shadowrocket 用户可以直接导入项目中的 `Shadowrocket/Perfect-Rules_v1.8.conf`。
+
+核心能力：
+
++ 🇨🇳 国内网站直连
++ 🌍 海外网站代理
++ 🤖 AI 独立策略组
++ ▶️ YouTube / Google / GitHub 独立分流
++ 🎬 Netflix / Spotify / TikTok / Telegram / Steam 独立分流
++ 🍎 Apple / 🪟 Microsoft 独立策略
++ 🌏 香港 / 台湾 / 日本 / 新加坡 / 韩国 / 美国 / 加拿大 / 英国地区自动测速
++ 🧪 网络检测独立策略
++ 🔄 配置支持远程更新
+
+### **Shadowrocket 配置地址**
+
+```text
+https://raw.githubusercontent.com/barry198788-ai/Perfect-Rules/main/Shadowrocket/Perfect-Rules_v1.8.conf
+```
+
+> 节点仍由你自己的 Shadowrocket 机场订阅提供；本配置不会写入任何私有节点。
+
